@@ -1,1 +1,1 @@
-Tutorial project
+Tutorial project se upravo izraduje
